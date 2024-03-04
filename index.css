@@ -1,0 +1,17 @@
+.personaje{
+    background-color: red;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.algo{
+    background-color: blue;
+    height: 50rem;
+}
+
+.subtitulo{
+    color: white;
+}
